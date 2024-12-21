@@ -82,16 +82,16 @@ Bienvenue dans ce projet de Web App interactif dédié à l'analyse de données,
 ---
 
 ## 🔍 **Cas d’Utilisation**
-**1. Exploration Initiale des Données**
+1. **Exploration Initiale des Données**
   - Chargez des fichiers CSV ou Excel.
   - Analysez les statistiques descriptives pour une vue d’ensemble rapide.
-**2. Visualisation Dynamique**
+2. **Visualisation Dynamique**
   - Explorez la répartition des variables avec des graphiques interactifs.
   - Analysez les corrélations grâce à des heatmaps.
-**3. Nettoyage des Données**
+3. **Nettoyage des Données**
   - Identifiez et gérez les valeurs manquantes ou aberrantes.
   - Simplifiez vos données en supprimant les colonnes inutiles.
-**4. Tests Statistiques**
+4. **Tests Statistiques**
   - Comparez les moyennes de groupes avec des tests T ou ANOVA.
   - Évaluez la relation entre variables catégoriques avec le test du Khi-2.
   - Modélisez vos données grâce à des régressions linéaires.
