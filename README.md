@@ -98,6 +98,10 @@ Bienvenue dans ce projet de Web App interactif dédié à l'analyse de données,
 
 ---
 
+## 👩‍💻 Auteurs
+- Baali Ghizlane
+- Imane Taghzout
+
 ## 💻 **Installation et Exécution**
 
 ### 🔧 **Prérequis**
